@@ -1,0 +1,28 @@
+{
+  "name": "google-fit-activity-types",
+  "version": "0.1.0",
+  "description": "Google Fit activity types for Node.js",
+  "main": "index.js",
+  "keywords": [
+    "google",
+    "fit",
+    "activity",
+    "activities",
+    "datatype",
+    "datatypes"
+  ],
+  "author": "Samuel Rinnetmäki",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samuelmr/google-fit-activity-types.git"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jsdom": "^9.9.1"
+  },
+  "bugs": {
+    "url": "https://github.com/samuelmr/google-fit-activity-types/issues"
+  },
+  "homepage": "https://github.com/samuelmr/google-fit-activity-types"
+}
